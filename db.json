@@ -1,0 +1,23 @@
+
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "React JS",
+      "instructor": "Mr. Ravi",
+      "duration": "4 Weeks"
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "instructor": "Ms. Priya",
+      "duration": "6 Weeks"
+    },
+    {
+      "id": 3,
+      "name": "Java",
+      "instructor": "Mr. Kumar",
+      "duration": "5 Weeks"
+    }
+  ]
+}
